@@ -13,6 +13,10 @@ inputs:
     description: 'Max length of branch name. 0 means no limit'
     default: '0'
 
+branding:
+  icon: 'check-square'
+  color: 'black'
+
 runs:
   using: 'node20'
   main: 'index.js'
