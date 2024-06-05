@@ -1,6 +1,6 @@
 # Branch Name Enforcing Action
 
-This action enforces the branch naming conventions using the pattern provided
+This action enforces the branch naming conventions using the pattern provided. This action assumes PR's to master/main will only be allowed from a release branch.
 
 ## Inputs
 
